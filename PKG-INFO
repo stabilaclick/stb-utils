@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: stb-utils
+Version: 1.0.0
+Summary: Common utility functions for tron codebases.
+Home-page: https://github.com/stabilaclick/stb-utils
+Author: Moneta Stabila
+Author-email: monetasatbila@protonmail.com
+License: MIT
+Description: # stb-utils
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.5,!=3.5.2,<4
