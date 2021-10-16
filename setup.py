@@ -47,7 +47,7 @@ with open(readme_filename) as f:
 setup(
     name='stb-utils',
     version=PACKAGE_VERSION,
-    description="""Common utility functions for tron codebases.""",
+    description="""Common utility functions for stabila codebases.""",
     long_description=PACKAGE_LONG_DESCRIPTION,
     long_description_content_type='text/x-rst',
     author='Moneta Stabila',
