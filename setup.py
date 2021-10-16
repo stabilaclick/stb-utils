@@ -7,7 +7,7 @@ from setuptools import (
     find_packages,
 )
 
-PACKAGE_VERSION = '1.0.0'
+PACKAGE_VERSION = '1.0.1'
 
 EXTRAS_REQUIRE = {
     'lint': [
@@ -49,6 +49,7 @@ setup(
     version=PACKAGE_VERSION,
     description="""Common utility functions for tron codebases.""",
     long_description=PACKAGE_LONG_DESCRIPTION,
+    long_description_content_type='text/x-rst',
     author='Moneta Stabila',
     author_email='monetasatbila@gmail.com',
     url='https://github.com/stabilaclick/stabila-utils',
